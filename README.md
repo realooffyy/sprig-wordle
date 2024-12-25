@@ -1,4 +1,4 @@
-A recreation of the popular Wordle game using Sprig.
+A recreation of the popular Wordle game using [Sprig](https://sprig.hackclub.com/).
 
 Play: https://sprig.hackclub.com/share/RYabqnxloYGdUMH6LBCh
 
